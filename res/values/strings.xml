@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Теряю корни</string>
+    <string name="textView">Введите коэффициенты</string>
+    <string name="coefA">Коэффициент a</string>
+    <string name="coefB">Коэффициент b</string>
+    <string name="coefC">Коэффициент c</string>
+    <string name="count">Рассчитать</string>
+    <string name="no_user_input">Ввели не все значения</string>
+    <string name="not_a_number">Введите цифры</string>
+    <string name="graph">График функции</string>
+</resources>
